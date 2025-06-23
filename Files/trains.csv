@@ -1,0 +1,16 @@
+ID,ArrivalTime,Type,Extra1,Extra2
+P001,30,passenger,6,300
+P002,15,passenger,5,250
+P003,45,passenger,8,400
+P004,60,passenger,10,500
+P005,90,passenger,7,350
+F001,30,freight,20000,coal
+F002,15,freight,15000,liquids
+F003,75,freight,25000,containers
+F004,45,freight,30000,steel
+F005,60,freight,18000,grain
+P006,25,passenger,4,200
+P007,50,passenger,5,260
+F006,35,freight,22000,wood
+F007,90,freight,28000,coal
+P008,20,passenger,3,150
